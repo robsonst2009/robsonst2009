@@ -1,4 +1,3 @@
-,,,,,,,,,,
 ,Ano,Produção Brasil,Produção Nordeste,Produção Rio Grande do Norte,Valor Brasil,Valor Nordeste,Valor Rio Grande do Norte,Preço Brasil,Preço Nordeste,Preço Rio Grande do Norte
 ,2017,41078069,40598244,15434477,889451,880222,398968,"21,65","21,68","25,85"
 ,2018,47316463,47032398,19764230,1136723,1130669,609703,"24,02","24,04","30,85"
