@@ -1,6 +1,19 @@
-,Ano,Produção Brasil,Produção Nordeste,Produção Rio Grande do Norte,Valor Brasil,Valor Nordeste,Valor Rio Grande do Norte,Preço Brasil,Preço Nordeste,Preço Rio Grande do Norte
-,2017,41078069,40598244,15434477,889451,880222,398968,"21,65","21,68","25,85"
-,2018,47316463,47032398,19764230,1136723,1130669,609703,"24,02","24,04","30,85"
-,2019,56667254,56427254,20781851,1240401,1234684,555422,"21,89","21,88","26,73"
-,2020,66561265,66302459,21981771,1398288,1391657,564950,"21,01","20,99","25,70"
-,2021,78637413,78412534,21190655,1607448,1601394,604559,"20,44","20,42","28,53"
+,Estimated per capita consumption of fish and seafood in selected countries in 2019,
+,,
+,Country,Per capita consumption
+,Iceland,"91,19%"
+,Maldives,"84,58%"
+,Portugal,"57,19%"
+,South Korea,"57,05%"
+,Japan,"46,06%"
+,Spain,"42,40%"
+,China,"38,49%"
+,France,"34,24%"
+,Italy,"29,82%"
+,Australia,"26,12%"
+,United States,"22,13%"
+,United Kingdom,"18,50%"
+,Germany,"12,63%"
+,Brazil,"8,95%"
+,India,"6,76%"
+,Afghanistan,"0,24%"
