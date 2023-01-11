@@ -1,19 +1,19 @@
-,Estimated per capita consumption of fish and seafood in selected countries in 2019,
-,,
-,Country,Per capita consumption
-,Iceland,"91,19%"
-,Maldives,"84,58%"
-,Portugal,"57,19%"
-,South Korea,"57,05%"
-,Japan,"46,06%"
-,Spain,"42,40%"
-,China,"38,49%"
-,France,"34,24%"
-,Italy,"29,82%"
-,Australia,"26,12%"
-,United States,"22,13%"
-,United Kingdom,"18,50%"
-,Germany,"12,63%"
-,Brazil,"8,95%"
-,India,"6,76%"
-,Afghanistan,"0,24%"
+,Estimated per capita consumption of fish and seafood in selected countries in 2019,,
+,,,
+,Country,Per capita consumption (Kg),Global average (Kg)
+,Iceland,"91,19","20,5"
+,Maldives,"84,58",
+,Portugal,"57,19",
+,South Korea,"57,05",
+,Japan,"46,06",
+,Spain,"42,4",
+,China,"38,49",
+,France,"34,24",
+,Italy,"29,82",
+,Australia,"26,12",
+,United States,"22,13",
+,United Kingdom,"18,5",
+,Germany,"12,63",
+,Brazil,"8,95",
+,India,"6,76",
+,Afghanistan,"0,24",
